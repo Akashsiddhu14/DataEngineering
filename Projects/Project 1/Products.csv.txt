@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+1,Smartphone,Electronics,599
+2,Laptop,Electronics,999
+3,Headphones,Electronics,699
+4,Shirt,Clothing,299
+5,Jeans,Black,499
+6,Watch,Accessories,799
+7,Men,Accessories,Ring,399
+8,Book,Stationery,549
+9,Pen,Stationery,29
+10,Makeup,Accessories,999
